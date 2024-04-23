@@ -1,0 +1,10 @@
+Servlets\SvAgregar.class
+clases\Tutorial.class
+Servlets\AgregarCategoriaServlet.class
+Servlets\EditarCategoriaServlet.class
+clases\GestionCategorias.class
+Servlets\EditarTutorialServlet.class
+clases\Categoria.class
+Servlets\EliminarCategoriaServlet.class
+clases\GestionTutorial.class
+Servlets\EliminarTutorialServlet.class
